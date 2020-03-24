@@ -8,6 +8,8 @@ public class Test {
         System.out.println("Muammer's code changes");
         System.out.println("New changes from Ajara");
         System.out.println("Muammer's second changes");
+        System.out.println("New anges");
+
 
     }
 }
