@@ -4,7 +4,6 @@ public class Test {
 
         System.out.println("This is for first commit");
         System.out.println("Ajara's code commit");
-        System.out.println("Ajara making changes");
 
     }
 
