@@ -9,5 +9,4 @@ public class Test {
         System.out.println("Latest updates for yusuf");
 
     }
-
 }
